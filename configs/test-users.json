@@ -1,0 +1,14 @@
+{
+    "testUser1": {
+        "emailId": "kapil.chokhawala@gmail.com",
+        "password": "abCD@1234",
+        "firstName": "Kapil",
+        "lastName": "Chokhawala"
+    },
+    "testUser2": {
+        "emailId": "kapil.chokhawala+kapscho@gmail.com",
+        "password": "cdAB@3412",
+        "firstName": "Kaps",
+        "lastName": "Cho"
+    }
+}

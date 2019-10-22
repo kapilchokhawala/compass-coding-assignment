@@ -1,0 +1,6 @@
+{
+    "baseUrl": "https://www.compass.com/",
+    "apiServiceRoute": "api/v3/",
+    "uriAuthentication": "security/actions/login",
+    "uriPropertySearch": "listings/search/list/relations"
+}
